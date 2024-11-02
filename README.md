@@ -1,0 +1,1 @@
+Go to the root directory in the terminal execute "cargo run"
